@@ -13,6 +13,7 @@
     "@ant-design/icons": "^5.3.7",
     "axios": "^1.7.2",
     "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
     "chart.js": "^4.4.3",
     "framer-motion": "^11.2.11",
     "html2canvas": "^1.4.1",
