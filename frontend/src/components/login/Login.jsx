@@ -17,7 +17,7 @@ const Login = () => {
     // Encode the form data
     const formData = queryString.stringify({ username, password });
 
-    axios.post('http://localhost:8000/login', formData, {
+    axios.post('/login', formData, {
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
       },
